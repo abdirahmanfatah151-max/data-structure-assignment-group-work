@@ -59,7 +59,7 @@ d.Queue...Using Array
 Application...CPU scheduling, Network buffering, Printer queues
 
 algorithm used....BFS...Breadth-First Search...a graph traversal algorithm that explores nodes level-by-level, starting from a root, by examining all direct neighbors at the current depth before moving to the next level. It uses a queue to manage node exploration, guaranteeing the shortest path in unweighted graphs...
-
+:/
 NON-LINEAR DATA STRUCTURES
 Tree....Binary TreeTrees are a fundamental data structure in computer science, and they're used in a wide range of applications. Essentially, a Tree is a hierarchical structure composed of nodes, where each node has a value and zero or more child nodes. There are different types of Trees, including Binary Trees, AVL Trees, and B-Trees, each with its own strengths and use cases.
 
@@ -182,3 +182,4 @@ Algorithm...Breadth First Search (BFS)
 Use... Friend suggestions
 
 Reason... Finds mutual connections.
+
