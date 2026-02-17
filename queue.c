@@ -1,11 +1,4 @@
 /*
-Author: Silvester Ngari Ngondi
-Reg No.: BSCCS/2025/41718
-Course: BIT 2203  Data Structures and Algorithms
-Assignment: Data Structures Implementation in C
-*/
-
-/*
 Queue Example
 Real-life applications:
 - Print queue (first submitted document prints first)
@@ -37,3 +30,4 @@ int main() {
     printf("\n");
     return 0;
 }
+
